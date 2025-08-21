@@ -30,9 +30,7 @@ This project addresses this limitation by:
   - Aggregating into global explanations
   - Retraining experiments with top-k features
 
-You can run it directly in **Google Colab**:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USERNAME>/<REPO>/blob/main/XAI_RankingSHAP.ipynb)
+You can run it directly in **Google Colab**
 
 ---
 
