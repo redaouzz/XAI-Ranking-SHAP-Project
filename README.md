@@ -52,7 +52,7 @@ You can run it directly in **Google Colab**:
 
 ## 📑 Report
 The full scientific report is available here (if uploaded):  
-📄 [XAI_RankingSHAP_Report.pdf](report/XAI_RankingSHAP_Report.pdf)
+📄 [XAI_RankingSHAP_Report.pdf](report/Hybrid_Ranking_Shap_Report.pdf)
 
 ---
 
