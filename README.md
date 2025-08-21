@@ -18,8 +18,6 @@ This project addresses this limitation by:
   - Full feature set  
   - Random-k feature subsets  
 
----
-
 
 ---
 
@@ -56,15 +54,7 @@ The full scientific report is available here (if uploaded):
 
 ---
 
-## ⚙️ Installation
-Clone the repository:
 
-git clone https://github.com/<USERNAME>/<REPO>.git
-cd XAI-RankingSHAP
-
-Install dependencies:
-
-pip install -r requirements.txt
 
 ## Technologies Used
 
